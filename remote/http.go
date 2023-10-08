@@ -19,7 +19,7 @@ import (
 
 	"github.com/pterodactyl/wings/system"
 )
-type Rule struct {
+{
 	Ip       string `json:"ip"`
 	Port     int    `json:"port"`
 	Priority int    `json:"priority"`

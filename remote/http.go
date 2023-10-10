@@ -20,7 +20,6 @@ import (
 	"github.com/pterodactyl/wings/system"
 )
 
-{ line
 
 type Rule struct{
 	Ip       string `json:"ip"`
